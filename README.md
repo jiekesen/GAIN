@@ -21,7 +21,7 @@ We provide a step-by-step guide for running GAIN.
 ```bash
 python Run_GAIN_Genotype.py --vae_input ./data/geno_data.csv --label ./data/Pheotype.csv 
 ```
-## Prediction based on genotype Data
+## Prediction based on genotype data
 
 ```bash
 python Geno_Predict.py ./data/geno_test.csv
