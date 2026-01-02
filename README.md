@@ -8,7 +8,7 @@ Python 3.10 / 3.11.
 Optional: Hardware accelerator supporting PyTorch.
 ## Install GAIN
 
-We provided a pre-packaged Conda environment for directly running Cropformer.
+We provided a pre-packaged Conda environment for directly running GAIN.
 
 ```bash
 conda env create -f GAIN.yml
