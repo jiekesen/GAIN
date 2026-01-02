@@ -1,5 +1,6 @@
 # GAIN
 GAIN, a deep learning framework for predicting crop developmental potential from genotype and environmental data.
+<img width="912" height="657" alt="image" src="https://github.com/user-attachments/assets/8da54354-d6d8-411e-ac9d-a2608bae8b0c" />
 
 ## System requirements
 Python 3.10 / 3.11.
